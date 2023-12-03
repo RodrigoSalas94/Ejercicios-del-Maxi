@@ -1,0 +1,14 @@
+GET  http://localhost:1234/usuarios
+
+###hola
+POST http://localhost:1234/usuarios
+Content-Type: application/json
+
+{
+    "id": 3,
+    "nombre": "Esteban Quito",
+    "email": "xdxd@hotmail.com"
+   
+}
+###
+DELETE  http://localhost:1234/usuarios/1
