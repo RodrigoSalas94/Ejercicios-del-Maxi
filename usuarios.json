@@ -1,3 +1,7 @@
-[{"id":1,"nombre":"Rodrigo Salas","email":"Rodri.xd@example.com"},
+[{"id":"9e6106f0-848b-4810-a11a-3d832a5610f9",
+"nombre":"Rodrigo Salas",
+"email":"Rodri.xd@example.com"},
 
-{"id":2,"nombre":"Señor x","email":"señor.x@example.com"}]
+{"id":"9e6106f0-848b-4810-a11a-3d832a5610f8",
+"nombre":"Señor x",
+"email":"señor.x@example.com"}]
