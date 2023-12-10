@@ -1,6 +1,22 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.2",
     "eslint": "^8.54.0",
-    "express": "^4.18.2"
-  }
+    "express": "4.18.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Ejercicios que me dio el maxi",
+  "main": "y",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodri",
+  "license": "ISC"
 }
