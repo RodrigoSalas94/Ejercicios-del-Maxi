@@ -5,10 +5,19 @@ POST http://localhost:1234/usuarios
 Content-Type: application/json
 
 {
-    "id": 3,
+    
     "nombre": "Esteban Quito",
     "email": "xdxd@hotmail.com"
    
 }
+
 ###
-DELETE  http://localhost:1234/usuarios/1
+PUT http://localhost:1234/usuarios/9e6106f0-848b-4810-a11a-3d832a5610f9
+Content-Type: application/json
+
+{
+    "nombre": "Juancito",
+    "email": "juancitop@gmail.com"
+}
+###
+DELETE  http://localhost:1234/usuarios/9e6106f0-848b-4810-a11a-3d832a5610f8
